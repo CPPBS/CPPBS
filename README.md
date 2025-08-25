@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...//Now,I don't know what I looking for,but we can have a chat:);
 - 📫 How to reach me ...
 - QQ:1218106403;3285767677
-- email:1218106403@qq.com;3285767677@qq.com;ydt13719745469@163.com;ydt13719745469@gmail.com;
+- email:1218106403@qq.com;
 
 <!---
 CPPBS/CPPBS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
